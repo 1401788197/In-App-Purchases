@@ -1,0 +1,63 @@
+{
+  "identifier" : "FC238641",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "1.00",
+      "familyShareable" : false,
+      "internalID" : "119930FF",
+      "localizations" : [
+        {
+          "description" : "一块的描述",
+          "displayName" : "一块",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "one",
+      "referenceName" : null,
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "2",
+      "familyShareable" : false,
+      "internalID" : "B317DF4A",
+      "localizations" : [
+        {
+          "description" : "两块的描述",
+          "displayName" : "两块",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "two",
+      "referenceName" : null,
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "3",
+      "familyShareable" : false,
+      "internalID" : "B2C40BAD",
+      "localizations" : [
+        {
+          "description" : "三块的描述",
+          "displayName" : "三块",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "three",
+      "referenceName" : null,
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 2
+  }
+}
